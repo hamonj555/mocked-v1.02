@@ -1,0 +1,15 @@
+export const colors = {
+  background: '#121212',
+  cardBackground: '#1E1E1E',
+  primary: '#8A56FF',
+  secondary: '#FF5656',
+  text: '#FFFFFF',
+  textSecondary: '#AAAAAA',
+  buttonBackground: '#2A2A2A',
+  recordButtonOuter: '#8A56FF',
+  recordButtonInner: '#FF5656',
+  progressBar: '#8A56FF',
+  progressBarBackground: '#333333',
+  tabBarBackground: '#1A1A1A',
+  effectButtonBackground: '#2A2A2A',
+};
